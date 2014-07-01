@@ -1,4 +1,6 @@
-# README
+# No longer working on this. Leaving for legacy's sake.
+
+## README
 
 Font available at http://losttype.com/klinic/ and is usable for Personal, Student or Non-profit use. 
 
