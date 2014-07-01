@@ -1,4 +1,4 @@
-# No longer working on this. Leaving for legacy's sake.
+# No longer working on this.
 
 ## README
 
